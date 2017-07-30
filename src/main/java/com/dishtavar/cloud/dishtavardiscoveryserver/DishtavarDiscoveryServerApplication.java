@@ -10,5 +10,6 @@ public class DishtavarDiscoveryServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DishtavarDiscoveryServerApplication.class, args);
+		
 	}
 }
